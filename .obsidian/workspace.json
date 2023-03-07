@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd4f33f014c90311",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b4cda25de174b58",
+  "active": "cd4f33f014c90311",
   "lastOpenFiles": [
     "README.md"
   ]
